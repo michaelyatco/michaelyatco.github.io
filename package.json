@@ -40,6 +40,7 @@
     "uglify-js": "2"
   },
   "dependencies": {
+    "chart.js": "^2.6.0",
     "d3-array": "1.0.2",
     "d3-axis": "1.0.4",
     "d3-brush": "1.0.3",
